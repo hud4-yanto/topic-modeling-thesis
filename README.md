@@ -4,8 +4,7 @@ A Text Mining project by <a href="www.linkedin.com/in/nur-huda-riyantoni">Nur Hu
 # Goals
 <ul>
   <li>Using IndoSBERT in embeddings stage of BERTopic Framework</li>
-  <li>To know topic in information system thesis </li>
-  <li>Gain Topic Coherence and Topic Diversity</li>
+  <li>To know topic in thesis information system study program </li>
 </ul>
 
 # The Dataset 
