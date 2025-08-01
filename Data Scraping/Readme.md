@@ -15,3 +15,4 @@ dari contoh itu, kita tahu bahwa masing-masing skripsi memiliki ID unik. Id itul
 nah, bagian itu menunjukkan bahwa halaman tersebut memiliki versi alternatif dalam beberapa format. Kita fokus ke format JSON(.js)
 5. ID skripsi yang telah kita dapatkan tadi kemudian diterapkan dalam mencari JSON.  
 6. Scraping data-data yang diperlukan dari JSON tersebut
+7. Cara-cara di atas **hanya bisa dilakukan** pada webiste yang memiliki struktur serupa. Karena terdapat website dengan struktur berbeda
