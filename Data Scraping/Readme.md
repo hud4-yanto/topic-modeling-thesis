@@ -2,7 +2,7 @@
 
 ## Pendahuluan
 
-Scraping ini dilakukan pada website repository dari 6 kampus UIN yang memiliki jurusan Sistem Informasi.  
+Scraping ini dilakukan pada website repository dari 6 kampus UIN yang memiliki jurusan Sistem Informasi. Data yang diambil adalah data skripsi dari tahun 2019-2024.   
 
 ## Alur Scraping
 1. Kita lihat dulu link website repository. contoh: "https://repository.uin-suska.ac.id/view/divisions/st=5Fsif/2020.html"
